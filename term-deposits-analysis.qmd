@@ -1,6 +1,5 @@
 ---
 title: "Comparative Analysis of Classification Models for Predicting Term Deposit Subscriptions"
-author: "Group 14"
 number-sections: true
 format: 
   html:
